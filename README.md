@@ -43,7 +43,7 @@ O quiz apresenta perguntas de múltipla escolha, feedback visual imediato para r
 
 O quiz pode ser acessado online através do GitHub Pages:
 
-🔗 **https://github.com/camilatrindad/jogomemoria.github.io**  
+🔗 **https://camilatrindad.github.io/quizguinea/**  
 *(ajuste o link conforme o nome do repositório)*
 
 ---
