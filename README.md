@@ -9,12 +9,12 @@ O quiz apresenta perguntas de múltipla escolha, feedback visual imediato para r
 
 ## ✨ Funcionalidades
 
-- ❓ Perguntas de múltipla escolha
-- 🎯 Verificação imediata de respostas
-- 🟢 Indicação visual de respostas corretas e incorretas
-- 🔁 Botão para reiniciar o quiz
-- 🐹 Elementos visuais temáticos (porquinhos da Índia)
-- 🎉 Exibição da pontuação final
+-  Perguntas de múltipla escolha
+-  Verificação imediata de respostas
+-  Indicação visual de respostas corretas e incorretas
+-  Botão para reiniciar o quiz
+-  Elementos visuais temáticos (porquinhos da Índia)
+-  Exibição da pontuação final
 
 ---
 
